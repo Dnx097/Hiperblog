@@ -38,3 +38,7 @@ div {
 #cabecera img {
     order: -1;
 }
+
+div {
+    padding: 2rem;
+}
