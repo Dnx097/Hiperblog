@@ -45,3 +45,7 @@ footer {
     text-align: center;
     color: thistle;
 }
+
+div {
+    padding: 2rem;
+}
