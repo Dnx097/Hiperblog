@@ -38,3 +38,10 @@ div {
 #cabecera img {
     order: -1;
 }
+
+footer {
+    background-color: rgb(48, 48, 48);
+    font-size: 1.8rem;
+    text-align: center;
+    color: thistle;
+}
