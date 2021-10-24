@@ -51,10 +51,14 @@ div::after {
 
 
 footer {
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(253, 245, 123);
     font-size: 1.8rem;
     text-align: center;
-    color: thistle;
+    color: rgb(66, 66, 66);
+}
+
+footer:hover {
+    background-color: royalblue;
 }
 
 div {
@@ -63,3 +67,7 @@ div {
 body {
     background-color: rgb(48, 48, 48);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> footer
