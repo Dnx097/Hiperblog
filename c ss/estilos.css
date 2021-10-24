@@ -33,3 +33,10 @@ div {
 #cabecera h2 {
     color: papayawhip;
 }
+
+footer {
+    background-color: rgb(48, 48, 48);
+    font-size: 1.8rem;
+    text-align: center;
+    color: thistle;
+}
