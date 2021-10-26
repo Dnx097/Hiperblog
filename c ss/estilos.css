@@ -50,12 +50,10 @@ div::after {
 }
 
 
-<<<<<<< HEAD
-=======
 div {
     padding: 2rem;
 }
->>>>>>> header
+
 footer {
     background-color: rgb(253, 245, 123);
     font-size: 1.8rem;
@@ -73,10 +71,10 @@ div {
 body {
     background-color: rgb(48, 48, 48);
 }
-<<<<<<< HEAD
-=======
 
 div {
     position: relative;
 }
->>>>>>> header
+
+
+/* este es un texto de modificacion a ver como sale el comit */
