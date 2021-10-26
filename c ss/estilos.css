@@ -53,6 +53,7 @@ div::after {
 div {
     padding: 2rem;
 }
+
 footer {
     background-color: rgb(253, 245, 123);
     font-size: 1.8rem;
@@ -64,6 +65,9 @@ footer:hover {
     background-color: royalblue;
 }
 
+div {
+    padding: 2rem;
+}
 body {
     background-color: rgb(48, 48, 48);
 }
@@ -71,3 +75,6 @@ body {
 div {
     position: relative;
 }
+
+
+/* este es un texto de modificacion a ver como sale el comit */
