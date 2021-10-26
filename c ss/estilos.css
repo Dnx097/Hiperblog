@@ -49,12 +49,10 @@ div::after {
     color: papayawhip;
 }
 
-<<<<<<< HEAD
 
 div {
     padding: 2rem;
 }
-=======
 footer {
     background-color: rgb(253, 245, 123);
     font-size: 1.8rem;
@@ -73,4 +71,3 @@ body {
 div {
     position: relative;
 }
->>>>>>> footer
